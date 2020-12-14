@@ -2,7 +2,7 @@ package br.inatel.cdg.example;
 
 import br.inatel.cdg.annotation.reading.NumberToSum;
 
-//Você deverá criar a @NumberToSum como parte da solução
+// Você deverá criar a @NumberToSum como parte da solução
 public class ExampleClass1 {
 
 	@NumberToSum(1)
